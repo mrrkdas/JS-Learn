@@ -1,0 +1,9 @@
+#show {
+    border-radius: 5px;
+    background-color: aqua;
+    color: green;
+}
+
+#show:hover {
+    opacity: 0.7;
+}
